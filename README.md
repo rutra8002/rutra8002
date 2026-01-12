@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 [![Rutra8002's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rutra8002&theme=github_dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rutra8002&theme=github_dark)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rutra8002&theme=github_dark&langs_count=99)](https://github.com/Pranesh-2005/github-readme-stats)
