@@ -1,3 +1,3 @@
 ## Hi there 👋
-![Top Languages](https://ghstats.dev/api/langs?username=rutra8002&max_langs=67&layout=donut)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rutra8002&langs_count=67&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=rutra8002&langs_count=67&theme=codeSTACKr)
 
