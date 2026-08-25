@@ -1,4 +1,3 @@
 ## Hi there 👋
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rutra8002&theme=github_dark&langs_count=99)](https://github.com/Pranesh-2005/github-readme-stats)
+![Top Languages](https://ghstats.dev/api/langs?username=rutra8002&max_langs=67&layout=donut)
 
